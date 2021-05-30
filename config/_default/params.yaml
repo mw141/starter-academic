@@ -37,11 +37,11 @@ office_hours:
   - ''
   - ''
 appointment_url: ''
-contact_links:
-  - icon: skype
-    icon_pack: fab
-    name: wark-warner
-    link: 'skype:echo123?call'
+# contact_links:
+ # - icon: skype
+ #   icon_pack: fab
+ #   name: wark-warner
+  #  link: 'skype:echo123?call'
   
 # Site header
 
@@ -58,7 +58,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-uk
+address_format: en-us
 
 # Site features
 
