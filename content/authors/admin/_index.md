@@ -36,4 +36,4 @@ highlight_name: false
 Mark Warner is a professor of theoretical physics at the Cavendish Lab, University of Cambridge. His research interests include shape-shifting solids (where the metric changes responsively), soft complex matter, statistical physics. He collaborates with the theoretical and experimental mechanics group of John Biggins, Cambridge Engineering Department, on novel mechanics, strong actuation from changes in metric, and possible connections with morphogenesis.
 
 
-{{< icon name="download" pack="fas" >}} Download a summary of my {{< staticref "uploads/MW_CV_20_short.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download a summary of my {{< staticref "content/authors/admin/MW_CV_20_short.pdf" "newtab" >}}CV{{< /staticref >}}.
