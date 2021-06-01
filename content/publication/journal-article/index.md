@@ -19,13 +19,13 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature: Scientific Reports, 1*(1)"
-publication_short: "Sci. Repts"
+publication: "*Nature: Scientific Reports, 11, 963 (2021)"
+publication_short: "Sci. Reps. 11, 963 (2021)"
 
-abstract: 
+abstract: We explore the driving of LEDs by untransformed AC. An extreme case is driving 1.9 V threshold (red) LEDs with UK mains, peak voltage 325 V. Commonly, driving is by transformed, rectified (DC) supply with a series resistor (where a significant fraction of the power is wasted) to limit current in the LED. With AC, one can instead reactively limit to a maximum current safe for an LED by employing a series capacitive impedance. Cheaper and simpler supplies can thus be employed in some cases. We analyse such non-linear circuits, and also explore questions of duty cycle and power experimentally.
 
 # Summary. An optional shortened abstract.
-summary: A reactive method of driving LEDs, quite different from the paradigm taught to students, is explored. It is highly non-linear and, at first, rather counter-intuitive.
+summary: A reactive method of driving LEDs, quite different from the paradigm taught to students, is explored. It is highly non-linear and, at first, rather counter-intuitive. (Freely available as Open Access.)
 
 tags:
 - Source Themes
@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.nature.com/articles/s41598-020-80617-2
 url_code: ''
 url_dataset: ''
 url_poster: ''
