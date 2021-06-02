@@ -33,8 +33,8 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: https://www.nature.com/articles/s41598-020-80617-2
+#   url: "https://www.nature.com/articles/s41598-020-80617-2"
+url_pdf: https://rdcu.be/cduCO
 url_code: ''
 url_dataset: ''
 url_poster: ''
