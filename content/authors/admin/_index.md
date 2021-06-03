@@ -38,6 +38,3 @@ highlight_name: false
 ---
 
 I am a professor of theoretical physics at the Cavendish Lab, University of Cambridge. My research interests include shape-shifting solids (where the metric changes responsively), soft complex matter, statistical physics. I collaborate with the theoretical and experimental mechanics group of John Biggins, Cambridge Engineering Department, on novel mechanics, strong actuation from changes in metric, and possible connections with morphogenesis.
-
-
-# {{< icon name="download" pack="fas" >}} Download a summary of my {{< staticref "content/authors/admin/MW_CV_20_short.pdf" "newtab" >}}CV{{< /staticref >}}.
