@@ -28,7 +28,6 @@ education:
     - course: PhD in Theoretical Physics
       institution: Imperial College, London.
       year: null
-       courses:
     - course: BA/MA in Natural Sciences
       institution: University of Cambridge / Corpus Christi College
       year: null
