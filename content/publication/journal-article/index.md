@@ -33,12 +33,16 @@ featured: true
 tags:
   - Source Themes
 projects: []
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   caption: A reactive method of driving LEDs, quite different from the paradigm
     taught to students, is explored. It is highly non-linear and, at first,
     rather counter-intuitive. (Paper freely available as Open Access.)
-  focal_point: "Center"
-  placement: 1
+  focal_point: "Right"
+  placement: 2
   preview_only: false
   filename: featured.jpg
 date: 2021-06-04T14:47:59.925Z
