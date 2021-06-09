@@ -19,9 +19,9 @@ author_notes:
   - ""
   - ""
 publication: "*Nature: Scientific Reports, 11, 963 (2021)"
-summary: A reactive method of driving LEDs, quite different from the paradigm
-  taught to students. It is highly non-linear and rather
-  counter-intuitive. (Paper freely available as Open Access.)
+summary: Reactive driving LEDs, not the paradigm
+  taught to students, is highly non-linear and rather
+  counter-intuitive. (Freely available Open Access.)
 url_dataset: ""
 url_project: ""
 publication_short: Sci. Reps. 11, 963 (2021)
@@ -38,9 +38,9 @@ projects: []
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  caption: A reactive method of driving LEDs, quite different from the paradigm
-    taught to students, is explored. It is highly non-linear and, at first,
-    rather counter-intuitive. (Paper freely available as Open Access.)
+  caption:  Reactive driving LEDs, not the paradigm
+  taught to students, is highly non-linear and rather
+  counter-intuitive. (Freely available Open Access.)
   focal_point: "Right"
   placement: 1
   preview_only: false
