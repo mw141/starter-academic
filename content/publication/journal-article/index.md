@@ -28,7 +28,7 @@ projects: []
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  caption:  Reactively driving LEDs, not the resistive paradigm, is highly non-linear and rather counter-intuitive.
+  caption: 
   focal_point: "Right"
   placement: 1
   preview_only: false
