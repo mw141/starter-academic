@@ -11,7 +11,7 @@ author_notes:
   - ""
   - ""
 publication: "*Nature: Scientific Reports, 11, 963 (2021)"
-summary: Reactively driving LEDs, not the paradigm taught to students, is highly non-linear and rather counter-intuitive. (Freely available Open Access.)
+summary: Reactively driving LEDs, not the paradigm taught to students, is highly non-linear and rather counter-intuitive. Click on figure for details. (Paper freely available Open Access.)
 url_dataset: ""
 url_project: ""
 publication_short: Sci. Reps. 11, 963 (2021)
